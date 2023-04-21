@@ -1,0 +1,7 @@
+//        evaluateCQ(databaseDir, inputFile, outputFile);
+//        for (int i = 2; i < 10; i++) {
+//            String index = Integer.toString(i);
+//            inputFile = inputFile.replace((i - 1) + "", index);
+//            outputFile = outputFile.replace((i - 1) + "", index);
+//            evaluateCQ(databaseDir, inputFile, outputFile);
+//        }
