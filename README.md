@@ -1,3 +1,13 @@
+In this assignment, you will implement the minimization procedure for conjunctive queries and a lightweight database engine for evaluating queries called Minibase.
+The goals of this assignment are threefold:
+1. to understand the minimization procedure for conjunctive queries,
+2. to teach you how to translate conjunctive queries into relational algebra query plans,
+3. to learn the iterator model for relational operator evaluation and implement the most common operators (e.g., selection, projection, join, aggregation).
+The assignment consists of three tasks:
+Task 1 (30%): Implementation of the minimization procedure for conjunctive queries.
+Task 2 (40%): Implementation of the iterator model and common RA operators.
+Task 3 (20%): Optimisation of constructed query plans
+
 # Minibase
 
 #### DatabaseCatalog
